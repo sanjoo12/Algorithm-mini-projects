@@ -20,6 +20,8 @@ https://replit.com/@sanjanabakhtian/Algorithm-projectdijkstrapy?v=1
 
 This project demonstrates the generation of the Fibonacci sequence using both iterative and recursive methods. The Fibonacci sequence is a series of numbers where each number is the sum of the two preceding ones.
 
+https://replit.com/@sanjanabakhtian/Algorithm-projectfibonacci?v=1
+
 5. Graph Traversal Algorithms
 
 This project presents the implementation of two graph traversal algorithms: Breadth First Search (BFS) and Depth First Search (DFS). These algorithms are used to explore nodes and edges of a graph.
