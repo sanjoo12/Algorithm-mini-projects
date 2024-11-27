@@ -8,6 +8,8 @@ https://replit.com/@sanjanabakhtian/Algorithm-project?v=1
 
 This project identifies the implementation of the binary search algorithm, used to find an element in a sorted list. Binary search is efficient with a time complexity of O(log n).
 
+https://replit.com/@sanjanabakhtian/Algorithm-project-Binary?v=1
+
 3. Dijkstra's Algorithm
 
 In this project it shows the implementation of Dijkstra's algorithm, which is used for finding the shortest path in a graph. It efficiently computes the shortest paths from a source node to all other nodes in a weighted graph.
