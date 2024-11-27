@@ -4,11 +4,11 @@ This project demonstrates the implementation and comparison of three sorting alg
 
 2. Binary Search Algorithm
 
-This project demonstrates the implementation of the binary search algorithm, used to find an element in a sorted list. Binary search is efficient with a time complexity of O(log n).
+This project identifies the implementation of the binary search algorithm, used to find an element in a sorted list. Binary search is efficient with a time complexity of O(log n).
 
 3. Dijkstra's Algorithm
 
-This project demonstrates the implementation of Dijkstra's algorithm, which is used for finding the shortest path in a graph. It efficiently computes the shortest paths from a source node to all other nodes in a weighted graph.
+In this project it shows the implementation of Dijkstra's algorithm, which is used for finding the shortest path in a graph. It efficiently computes the shortest paths from a source node to all other nodes in a weighted graph.
 
 4. Fibonacci Sequence
 
@@ -16,4 +16,4 @@ This project demonstrates the generation of the Fibonacci sequence using both it
 
 5. Graph Traversal Algorithms
 
-This project demonstrates the implementation of two graph traversal algorithms: Breadth First Search (BFS) and Depth First Search (DFS). These algorithms are used to explore nodes and edges of a graph.
+This project presents the implementation of two graph traversal algorithms: Breadth First Search (BFS) and Depth First Search (DFS). These algorithms are used to explore nodes and edges of a graph.
