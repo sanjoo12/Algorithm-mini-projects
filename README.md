@@ -2,6 +2,8 @@
 
 This project demonstrates the implementation and comparison of three sorting algorithms: Bubble Sort, Merge Sort, and Quick Sort. The aim is to understand the functionality and performance differences between these algorithms.
 
+https://replit.com/@sanjanabakhtian/Algorithm-project?v=1
+
 2. Binary Search Algorithm
 
 This project identifies the implementation of the binary search algorithm, used to find an element in a sorted list. Binary search is efficient with a time complexity of O(log n).
