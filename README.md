@@ -14,6 +14,8 @@ https://replit.com/@sanjanabakhtian/Algorithm-project-Binary?v=1
 
 In this project it shows the implementation of Dijkstra's algorithm, which is used for finding the shortest path in a graph. It efficiently computes the shortest paths from a source node to all other nodes in a weighted graph.
 
+https://replit.com/@sanjanabakhtian/Algorithm-projectdijkstrapy?v=1
+
 4. Fibonacci Sequence
 
 This project demonstrates the generation of the Fibonacci sequence using both iterative and recursive methods. The Fibonacci sequence is a series of numbers where each number is the sum of the two preceding ones.
