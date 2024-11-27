@@ -25,3 +25,5 @@ https://replit.com/@sanjanabakhtian/Algorithm-projectfibonacci?v=1
 5. Graph Traversal Algorithms
 
 This project presents the implementation of two graph traversal algorithms: Breadth First Search (BFS) and Depth First Search (DFS). These algorithms are used to explore nodes and edges of a graph.
+
+https://replit.com/@sanjanabakhtian/Algorithm-projectgraphtraversal?v=1
