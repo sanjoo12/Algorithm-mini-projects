@@ -1,41 +1,21 @@
-from collections import deque
+def binary_search(arr, target):
+    low, high = 0, len(arr) - 1
 
-def bfs(graph, start):
-    visited = set()
-    queue = deque([start])
-    traversal = []
-
-    while queue:
-        vertex = queue.popleft()
-        if vertex not in visited:
-            visited.add(vertex)
-            traversal.append(vertex)
-            queue.extend(graph[vertex] - visited)
-    
-    return traversal
-
-def dfs(graph, start):
-    visited = set()
-    stack = [start]
-    traversal = []
-
-    while stack:
-        vertex = stack.pop()
-        if vertex not in visited:
-            visited.add(vertex)
-            traversal.append(vertex)
-            stack.extend(graph[vertex] - visited)
-    
-    return traversal
+    while low <= high:
+        mid = (low + high) // 2
+        if arr[mid] == target:
+            return mid
+        elif arr[mid] < target:
+            low = mid + 1
+        else:
+            high = mid - 1
+    return -1
 
 if __name__ == "__main__":
-    graph = {
-        'A': {'B', 'C'},
-        'B': {'A', 'D', 'E'},
-        'C': {'A', 'F'},
-        'D': {'B'},
-        'E': {'B', 'F'},
-        'F': {'C', 'E'}
-    }
-    print("BFS Traversal:", bfs(graph, 'A'))
-    print("DFS Traversal:", dfs(graph, 'A'))
+    sorted_list = [11, 22, 25, 34, 64, 90]
+    target = 34
+    result = binary_search(sorted_list, target)
+    if result != -1:
+        print(f"Element found at index {result}")
+    else:
+        print("Element not found in the list")
